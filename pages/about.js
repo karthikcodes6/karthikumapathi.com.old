@@ -40,11 +40,6 @@ export default function About() {
             <p>
               Do you have any idea? or else Just want to consult anything with me? I'll always excited to do business with like minded people, let's discuss over a coffee (hopefully after corona, untill we can have a online session).
             </p>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique
-              placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem
-              nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-            </p>
           </div>
         </div>
       </div>
